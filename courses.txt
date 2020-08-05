@@ -1,0 +1,7 @@
+1. 
+2.IOT
+3.MACHINE LEARNING
+4.Front-End Web UI Frameworks and Tools: Bootstrap 4
+5.The Bits and Bytes of Computer Networking....24HRS..Networks and Network Administration
+6. Crash Course on Python
+....31HRS
